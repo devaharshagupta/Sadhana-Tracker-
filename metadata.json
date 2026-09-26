@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sadhana \u0026 Vidya: GATE, College \u0026 Krishna Consciousness Daily Tracker",
+  "description": "An all-in-one daily tracker and task management system harmonizing GATE engineering preparation, College academics, and Krishna Consciousness Sadhana practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
